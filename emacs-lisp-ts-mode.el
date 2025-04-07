@@ -93,8 +93,7 @@
 
    :language 'elisp
    :feature 'constant
-   `(["t" "nil"] @font-lock-constant-face
-     (char) @font-lock-constant-face)
+   `(["t" "nil"] @font-lock-constant-face)
 
    :language 'elisp
    :feature 'definition
